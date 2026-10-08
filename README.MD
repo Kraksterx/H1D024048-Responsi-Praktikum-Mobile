@@ -3,6 +3,7 @@
 **Nama:** Nathanael Jovan Wahyudi
 **NIM:** H1D024048
 **Shift Praktikum:** F
+**Link Youtube:** https://youtu.be/m9AeM3hgqIM?si=YbsFpeEs6pcqeu6K
 
 Aplikasi Android katalog video game yang mengambil data dinamis dari RAWG API. Menampilkan daftar game, pencarian server-side, dan detail game.
 
